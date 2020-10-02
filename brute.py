@@ -102,7 +102,8 @@ def main():
 def kol():
     nok = raw_input("Editar lista de contraseñas.? \033[96;1m[y/n]: ")
     if nok == "y":
-        print ("Por favor escriba la orden\033[92;1m[ nano pass.txt ] !")
+        print ("Por favor escriba la orden\033[92;1m[ nano pass.txt nano pass2.txt nano pass3.txt para editar su lista] !")
+        print ("Al terminar Por favor toque \033[92;1m[ CTRL X Y Y para guardar su lista] !")
         print WW+(41*"-")
         print GL+(" ")
         os.sys.exit()
@@ -119,7 +120,7 @@ def brute(password):
         sub = br.submit()
         log = sub.geturl()
         if log != login and (not 'login_attempt' in log):
-                        print("\033[92;1m\n\n[+]\033[97;1m Password Encontrada \033[31;1m===| \033[96;1m{}".format(password)) 
+                        print("\033[92;1m\n\n[+]\033[97;1m Contraseña Encontrada \033[31;1m===| \033[96;1m{}".format(password)) 
                         print " "
                         raw_input(WW+"PULSE ENTER PARA SALIR.....")
                         sys.exit(1)
@@ -148,7 +149,7 @@ Y darle LIKE al Video.... Gracias!!!
         print " "
         print GL+" [*] Cuenta a Crackear : {}".format(email)
         print RR+" [*] Cantidad :" , len(total),WW+ "passwords"
-        print Y+" [*] Cracking, please wait .....\n\n"
+        print Y+" [*] Crackeando, porfavor espere.....\n\n"
 
 if __name__ == '__main__':
         main()
