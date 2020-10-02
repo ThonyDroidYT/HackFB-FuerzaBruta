@@ -93,14 +93,14 @@ def main():
         welcome()
         search()
         print " "
-        runntek(RR+"  Wordlis Tidak Ada yang Cocok")
-        runntek(RR+"  Kembangin Wordlistnya Sendiri Cuk")
+        runntek(RR+"  Ninguna Contraseña de La lista coincide")
+        runntek(RR+"  Desarrolle su propia lista de contraseñas")
         time.sleep(1)
         print WW+34*"  -"
         kol()
 
 def kol():
-    nok = raw_input("Edit wordlist cuk.? \033[96;1m[y/n]: ")
+    nok = raw_input("Editar lista de contraseñas.? \033[96;1m[y/n]: ")
     if nok == "y":
         print ("Por favor escriba la orden\033[92;1m[ nano pass.txt ] !")
         print WW+(41*"-")
