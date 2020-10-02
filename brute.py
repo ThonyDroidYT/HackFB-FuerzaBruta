@@ -44,17 +44,17 @@ def cover():
     time.sleep(1)
     print " "
     print RR+"  +============================================+"
-    print GG+"  |¢â€€   HACK FACEBOOK By TecnoSolution   ¢â€¢|"
+    print GG+"  |☆☆☆☆    HACK FACEBOOK By THONYDRO    ☆☆☆|"
     print RR+"  +============================================+"
-    print WW+"  |            Script BY: TecnoSolution        |"
-    print GG+"  |              Reza antes de usar            |"
-    print WW+"  |            FACEBOOK: TecnoSolution         |"
-    print Y+"   |             YouTube: TecnoSolution         |"
+    print WW+"  |            Script BY: Thony_DroidYT        |"
+    print GG+"  |              Reza antes de usar xd         |"
+    print WW+"  |            FACEBOOK: @ThonyDroidYt         |"
+    print Y+"   |             YouTube: @THONYDROID 2.0       |"
     print WW+"  |--------------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]        |"
+    print GL+"  |        LIFE OF PROGRAMMER [ A.M.C ]        |"
     print WW+"  |--------------------------------------------|"
     print RR+"  +============================================+"
-    print GG+"  |¢â€€   HACK FACEBOOK By TecnoSolution   ¢â€¢|"
+    print GG+"  |☆☆☆   HACK FACEBOOK By Thony_DroidYT  ☆☆☆|"
     print RR+"  +============================================+"     
 
 
@@ -136,7 +136,7 @@ def search():
 #welcome
 def welcome():
         wel = GG+"""
-No olvides suscribirte al Canal de Youtube "TecnoSolution" 
+No olvides suscribirte al Canal de Youtube "ThonyDroidYT" 
 Y darle LIKE al Video.... Gracias!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! \033[96;4mLife Of Programmer\033[92;1m
        |_|
