@@ -40,7 +40,7 @@ def cover():
     
     
      """
-    runntek(GL+"           YouTube'@TecnoSolution ^_^...")
+    runntek(GL+"         YouTube'@Thony_DroidYT ^_^...")
     time.sleep(1)
     print " "
     print RR+"  +============================================+"
